@@ -1,12 +1,11 @@
-# PicPay Simples PHP SDK
+# PicPay PHP Simple
 
-SDK PHP para a API de E-Commerce do PicPay
-- Versão Simples
+Simple PHP para a API de E-Commerce do PicPay
+- Versão 1.0
 
 ## Dependências
 
 * PHP >= 5.6
-* Possuir conta lojista no PicPay
 
 ## Exemplos
 
