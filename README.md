@@ -1,13 +1,6 @@
 # PicPay PHP Simple
 
 Simple PHP para a API de E-Commerce do PicPay
-- Versão 1.0
-
-## Dependências
-
-* PHP >= 5.6
-
-## Exemplos
 
 ### Efetuando Pagamento (payment.php)
 ```php
