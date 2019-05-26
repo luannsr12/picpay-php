@@ -8,8 +8,10 @@ Simple PHP para a API de E-Commerce do PicPay
  require_once 'src/paymentPicPay.php';
  $picpay = new PicPay;
  
-  // Dados do produto
-   $prod['id']    = 159250;			
+  //Dados do produto
+ 
+  // Número randomico + ID do produto
+   $prod['id']    = rand(1000,99999).159;			
    $prod['nome']  = "Blusa Adidas";
    $prod['valor'] = 35.50;
    
