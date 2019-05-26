@@ -12,12 +12,12 @@ Simple PHP para a API de E-Commerce do PicPay
  
   // Número randomico + ID do produto
    $prod['id']    = rand(1000,99999).159;			
-   $prod['nome']  = "Blusa Adidas";
-   $prod['valor'] = 35.50;
+   $prod['nome']  = "Trono de ferro";
+   $prod['valor'] = 100.00;
    
    // Dados do cliente
-   $cli['nome']      = "João";
-   $cli['sobreNome'] = "Das Neves";
+   $cli['nome']      = "Daenerys";
+   $cli['sobreNome'] = "Targaryen";
    $cli['cpf']       = "000.000.000-00";
    $cli['email']     = "email@provedor.com";
    $cli['telefone']  = "11999999999";
