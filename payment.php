@@ -20,7 +20,7 @@
   
   
   // Dados do produto
-   $prod['id']    = 159250;			
+   $prod['id']    = rand(1000,99999).159;			
    $prod['nome']  = "Blusa Adidas";
    $prod['valor'] = 35.50;
    
