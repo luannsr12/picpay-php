@@ -35,7 +35,7 @@
 	 public function requestPayment($produto,$cliente){
 		 
 		  $data = array(
-		         'referenceId' => $produto->id,
+		         'referenceId' => $produto->ref,
 		         'callbackUrl' => $this->urlCallBack,
 		         'returnUrl'   => $this->urlReturn,
 		         'value'       => $produto->valor,
