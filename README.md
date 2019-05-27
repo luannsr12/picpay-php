@@ -10,8 +10,7 @@ Simple PHP para a API de E-Commerce do PicPay
  
   //Dados do produto
  
-  // Número randomico + ID do produto
-   $prod['id']    = rand(1000,99999).159;			
+   $prod['ref']    = rand(1000,99999);			
    $prod['nome']  = "Trono de ferro";
    $prod['valor'] = 100.00;
    
