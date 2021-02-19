@@ -1,6 +1,18 @@
 # PicPay PHP Simple
 
 Simple PHP para a API de E-Commerce do PicPay
+-----------
+
+### Configuração (src/paymentPicPay.php)
+#### Adicione seu `x-picpay-token` e `x-seller-token`
+
+```php
+ private $x_picpay_token = "x-picpay-token";
+
+ private $x_seller_token = "x-seller-token";
+
+```
+-----------
 
 ### Efetuando Pagamento (payment.php)
 ```php
