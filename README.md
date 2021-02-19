@@ -4,7 +4,7 @@ Simple PHP para a API de E-Commerce do PicPay
 -----------
 
 ### Configuração (src/paymentPicPay.php)
-#### Adicione seu `x-picpay-token` e `x-seller-token`
+#### Adicione seu `x-picpay-token` e `x-seller-token` | Clique [aqui](https://lojista.picpay.com/dashboard/ecommerce-token) para pegar as credenciais
 
 ```php
  private $x_picpay_token = "x-picpay-token";
