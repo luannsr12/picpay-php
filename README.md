@@ -1,6 +1,5 @@
 # PicPay PHP Simple
 
-Simple PHP para a API de E-Commerce do PicPay
 -----------
 
 ### Configuração (src/paymentPicPay.php)
