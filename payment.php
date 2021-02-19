@@ -5,11 +5,7 @@
    * @author: Script Mundo
    */
   
-   /* Acesse a documentação do PicPay para mais informações
-    * Para cada requisição o PicPay exige um IDReference diferente
-    * Na class PicPay o IDReference recebe o id do produto
-	* portanto toda vez que fizer a requisição não se esqueça de alterar o id do produto
-	*/
+   /* Acesse a documentação do PicPay para mais informações*/
 	
 	
   // class PicPay
