@@ -1,7 +1,5 @@
 # PicPay PHP Simple
 
------------
-
 ### Configuração (src/paymentPicPay.php)
 #### Adicione seu `x-picpay-token` e `x-seller-token` | Clique [aqui](https://lojista.picpay.com/dashboard/ecommerce-token) para pegar as credenciais
 
