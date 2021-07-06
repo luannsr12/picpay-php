@@ -1,5 +1,5 @@
 # PicPay PHP Simple
-[![](https://img.shields.io/github/license/luannsr12/correios-rastreio.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/blob/master/LICENSE)
+
 [![](https://img.shields.io/github/commit-activity/y/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/commits/master)
 [![](https://img.shields.io/github/issues/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/issues)
 
