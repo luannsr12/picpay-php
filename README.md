@@ -1,4 +1,7 @@
 # PicPay PHP Simple
+[![](https://img.shields.io/github/license/luannsr12/correios-rastreio.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/blob/master/LICENSE)
+[![](https://img.shields.io/github/commit-activity/y/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/commits/master)
+[![](https://img.shields.io/github/issues/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/issues)
 
 ### Configuração (src/paymentPicPay.php)
 #### Adicione seu `x-picpay-token` e `x-seller-token` | Clique [aqui](https://lojista.picpay.com/dashboard/ecommerce-token) para pegar as credenciais
