@@ -1,6 +1,6 @@
 # PicPay PHP Simple
 
-[![](https://img.shields.io/github/contributors/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/r)
+[![](https://img.shields.io/github/contributors/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/)
 [![](https://img.shields.io/github/issues/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/issues)
 [![](https://badges.pufler.dev/updated/luannsr12/picpay-php)](https://github.com/luannsr12/picpay-php)
 [![](https://badges.pufler.dev/visits/luannsr12/picpay-php)](https://github.com/luannsr12/picpay-php)
