@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/github/commit-activity/y/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/commits/master)
 [![](https://img.shields.io/github/issues/luannsr12/picpay-php.svg?style=flat-square)](https://github.com/luannsr12/picpay-php/issues)
+[![](https://badges.pufler.dev/updated/luannsr12/picpay-php)](https://github.com/luannsr12/picpay-php)
+[![](https://badges.pufler.dev/visits/luannsr12/picpay-php)](https://github.com/luannsr12/picpay-php)
 
 ### Configuração (src/paymentPicPay.php)
 #### Adicione seu `x-picpay-token` e `x-seller-token` | Clique [aqui](https://lojista.picpay.com/dashboard/ecommerce-token) para pegar as credenciais
