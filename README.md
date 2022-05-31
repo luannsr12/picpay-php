@@ -5,22 +5,14 @@
 [![](https://badges.pufler.dev/updated/luannsr12/picpay-php)](https://github.com/luannsr12/picpay-php)
 [![](https://badges.pufler.dev/visits/luannsr12/picpay-php)](https://github.com/luannsr12/picpay-php)
 
-### Configuração (src/paymentPicPay.php)
+
+### Efetuando Pagamento (payment.php)
 #### Adicione seu `x-picpay-token` e `x-seller-token` | Clique [aqui](https://lojista.picpay.com/dashboard/ecommerce-token) para pegar as credenciais
 
 ```php
- private $x_picpay_token = "x-picpay-token";
-
- private $x_seller_token = "x-seller-token";
-
-```
------------
-
-### Efetuando Pagamento (payment.php)
-```php
 <?php
  require_once 'src/paymentPicPay.php';
- $picpay = new PicPay;
+ $picpay = new PicPay("x-picpay-token", "x-seller-token");
  
   //Dados do produto
  
@@ -58,7 +50,7 @@
 ```php
 <?php
   require_once 'src/paymentPicPay.php'; 
-  $picpay = new PicPay;
+  $picpay = new PicPay("x-picpay-token", "x-seller-token");
   
   // função que verifica a requisição do PicPay
   $notification = $picpay->notificationPayment();
