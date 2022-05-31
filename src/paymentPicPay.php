@@ -7,6 +7,11 @@
   */
 
   class PicPay{
+	  
+	  function __construct($x_picpay_token="", $x_seller_token=""){
+	     $this->x_picpay_token = $x_picpay_token;
+	     $this->x_seller_token = $x_seller_token;
+	  }
 	 
 	 /*
 	  *@var type String: $urlCallBack
@@ -18,18 +23,6 @@
 	   */
 	  private $urlReturn = "https://seusite.com/user";
 	 
-	 /*
-	  *@Get token: https://bit.ly/2XyAWCy
-	  *@var type String: $x_picpay_token
-	  */
-	  private $x_picpay_token = "Seu x-picpay-token";
-	  
-	  /*
-	   *@var type String: $x_seller_token
-	   */
-	  private $x_seller_token = "Seu x-seller-token";
-	   
-	   
 	 
 	 //Função que faz a requisição
 	 public function requestPayment($produto,$cliente){
