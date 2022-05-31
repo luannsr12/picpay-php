@@ -2,7 +2,7 @@
 	
   /* Simples integração com PicPay
    * Arquivo de Notificação
-   * @author: Script Mundo
+   * @author: Luan Alves
    */
    
    
