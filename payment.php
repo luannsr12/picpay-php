@@ -2,7 +2,7 @@
   
   /* Simples integração com PicPay
    * Arquivo de CheckOut
-   * @author: Script Mundo
+   * @author: Luan Alves
    */
   
    /* Acesse a documentação do PicPay para mais informações*/
