@@ -16,7 +16,7 @@
  
   //Dados do produto
  
-   $prod['ref']    = rand(1000,99999);			
+   $prod['ref']    = uniqid();			
    $prod['nome']  = "Trono de ferro";
    $prod['valor'] = 100.00;
    
